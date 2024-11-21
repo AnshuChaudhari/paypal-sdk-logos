@@ -30,6 +30,7 @@ export const LOGO = {
   MULTIBANCO: ("multibanco": "multibanco"),
   SATISPAY: ("satispay": "satispay"),
   PAIDY: ("paidy": "paidy"),
+  ACH: ("ach": "ach"),
 };
 
 export const MARK = {
