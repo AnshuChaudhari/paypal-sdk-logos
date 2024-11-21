@@ -103,7 +103,7 @@
     "zx": "^4.3.0"
   },
   "dependencies": {
-    "@paypal/sdk-constants": "^1.0.128",
+    "@paypal/sdk-constants": "git+https://github.com/AnshuChaudhari/paypal-sdk-constants.git#main",
     "@krakenjs/belter": "^2.0.0",
     "@krakenjs/jsx-pragmatic": "^3.0.0"
   },
